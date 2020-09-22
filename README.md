@@ -2,6 +2,20 @@ Demo data for Tableau data science demonstrations
 =================================================
 
 
+COVID-19 geographical dynamics: the tale of three states
+--------------------------------------------------------
+
+![COVID-19 use case screenshot](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/covid-19.png)
+
+This demo showcases
+
+* spatio-temporal splitting of a case-incidence time series, 
+* comparing a timespan average versus a rolling comparison of the preceding time segment (use the date range slider to set the index date, and the choropleth will indicate % change in TPR against the preceding 14-day window), and
+* trend lines.
+
+There's a [detailed Wiki entry](https://github.com/starschema/tableau-ds-demos/wiki/COVID-19:-a-tale-of-three-states) that explains the narrative behind this use case.
+
+
 Spatial analysis of fatal drug poisonings, 1998-2016
 ----------------------------------------------------
 
