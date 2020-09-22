@@ -31,7 +31,7 @@ This demo showcases
 Time series forecasting
 -----------------------
 
-![Time series use case](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/time-series-forecasting.png)
+![Time series use case screenshot](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/time-series-forecasting.png)
 
 This demo uses the data set on the global average temperature deviation in degrees Celsius to showcase predictive capabilities, in particular
 
@@ -40,10 +40,21 @@ This demo uses the data set on the global average temperature deviation in degre
 * the integration of seasonality (from monthly data) into the forecast.
 
 
+Reliability and adverse events
+------------------------------
+
+![Reliability screenshot](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/reliability.png)
+
+This demo shows anomaly detection capabilities on the illustration of a (fictional!) data set simulating five side effects of a drug in three common patterns: constant-rate, constantly increasing rate and accumulative effects, where a previously unidentifiable part of the treatment cohort who are so susceptible exhibit the side effect after a given time in treatment. This illustrates
+
+* using Tableau to identify anomalies, and
+* using rolling calculations to identify the rapid spike in encephalopathy, isolated in time.
+
+
 Survival
 --------
 
-![Survival use case](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/survival.png)
+![Survival use case screenshot](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/survival.png)
 
 Typically, survival is visualised using the stepwise cumulative visualization. This is not always a useful way to see subcohort patterns. This use case utilises the data set by [Haberman et al.](https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival) to display what fraction of individuals who had surgery for breast cancer in a given year survived or did not survive past the 5-year post-diagnostic interval, stratified by their age at the time of surgery. This use case displays
 
