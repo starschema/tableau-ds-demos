@@ -7,7 +7,11 @@ Drug performance mining
 
 ![Drug performance mining](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/regression.png)
 
-This demo showcases Tableau's new regression modelling capabilities by identifying whether a particular medication performs above or below the expected value based on how patients rate the drug.
+This demo showcases Tableau's new regression modelling capabilities by identifying whether a particular medication performs above or below the expected value based on how patients rate the drug. Consider, for instance, this comparison of duloxetine (Cymbalta) and mirtazapine:
+
+![Drug performance mining](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/duloxetine_vs_mirtazapine.png)
+
+Both drugs have roughly the same number of users. However, Cymbalta is rated quite lower than mirtazapine, thus in relation to each other, Cymbalta is a better performer than mirtazapine.
 
 
 COVID-19 geographical dynamics: the tale of three states
