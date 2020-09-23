@@ -2,6 +2,14 @@ Demo data for Tableau data science demonstrations
 =================================================
 
 
+Drug performance mining
+-----------------------
+
+![Drug performance mining](https://github.com/starschema/tableau-ds-demos/raw/master/screenshots/regression.png)
+
+This demo showcases Tableau's new regression modelling capabilities by identifying whether a particular medication performs above or below the expected value based on how patients rate the drug.
+
+
 COVID-19 geographical dynamics: the tale of three states
 --------------------------------------------------------
 
